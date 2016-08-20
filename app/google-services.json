@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "589743771812",
+    "firebase_url": "https://wkhl-62eac.firebaseio.com",
+    "project_id": "wkhl-62eac",
+    "storage_bucket": "wkhl-62eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589743771812:android:6458d850e73741a3",
+        "android_client_info": {
+          "package_name": "com.first.wkhl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589743771812-h5r3p8caldeo2msm44h28jkjpr0avd4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTHi1A_42Y8XkzphWR4EHQVpVI4xYdjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
